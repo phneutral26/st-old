@@ -31,7 +31,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 ## Installation for newbs
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/phneutral26/st
 cd st
 sudo make install
 ```
